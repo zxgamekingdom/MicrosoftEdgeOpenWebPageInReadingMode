@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>MicrosoftEdge以阅读模式打开网页</AssemblyName>
+    <RootNamespace>MicrosoftEdge以阅读模式打开网页</RootNamespace>
+  </PropertyGroup>
+
+</Project>
